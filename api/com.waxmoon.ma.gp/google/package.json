@@ -3,9 +3,9 @@
 "code":0,
   "message":"success",
   "data":{
-  "versionCode":2,
+  "versionCode":20400,
     "duration": 600000,
     "force":true,
-    "content":"We need to transfer the application and transfer the account to waxmoon"
+    "content":"You must upgrade to latest version."
   }
 }
