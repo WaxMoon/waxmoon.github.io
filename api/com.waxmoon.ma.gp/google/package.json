@@ -3,7 +3,7 @@
 "code":0,
   "message":"success",
   "data":{
-  "versionCode":20400,
+  "versionCode":20401,
     "duration": 600000,
     "force":true,
     "content":"You must upgrade to latest version."
