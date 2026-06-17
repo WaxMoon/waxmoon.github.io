@@ -1,0 +1,10 @@
+{
+"code":0,
+  "message":"success",
+  "data":{
+    "versionCode":1109,
+    "duration": 300000,
+    "force":false,
+    "content":"You must upgrade to latest version..."
+  }
+}
