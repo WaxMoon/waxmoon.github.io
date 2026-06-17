@@ -1,0 +1,10 @@
+{
+"code":0,
+  "message":"success",
+  "data":{
+    "versionCode":1202,
+    "duration": 300000,
+    "force":false,
+    "content":"A new version is available on Google Play. Update now for the best experience."
+  }
+}
